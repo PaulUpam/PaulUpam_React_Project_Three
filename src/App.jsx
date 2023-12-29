@@ -9,6 +9,9 @@ function App() {
   return (
     <>
     <h1 className="text-center text-4xl bg-red-500">React TailwindCss DaisyUI install Done</h1>
+    <h1 className="text-center text-4xl bg-red-500">Cpanel deploy done</h1>
+    
+
     </>
   )
 }
